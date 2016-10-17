@@ -1,0 +1,39 @@
+{
+  "name": "gulpfile-detail",
+  "version": "0.1.0",
+  "description": "This is for study gulp project !",
+  "homepage": "blog.vadxq.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vadxq"
+  },
+  "author": {
+    "name": "vadxq",
+    "email": "862235971@qq.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.1.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-cached": "^1.1.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-make-css-url-version": "^0.0.13",
+    "gulp-imagemin": "^3.0.3",
+    "imagemin-pngquant": "^5.0.0",
+    "gulp-cache": "^0.4.5",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-rev-append": "^0.1.6",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-ruby-sass": "^2.1.0",
+    "gulp-webpack": "^1.5.0",
+    "vinyl-named": "^1.1.0"
+  }
+}
